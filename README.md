@@ -54,8 +54,13 @@ Using **Excel**, the dataset was cleaned, transformed, and visualized through **
 ---
 
 ## 📸 Dashboard Preview
-![Coffee Shop Dashboard](screenshots/dashboard1.png)
-![Coffee Shop Dashboard](screenshots/dashboard2.png)
+
+### Dashboard 1
+![Coffee Shop Dashboard](Screenshots/dashboard1%20(1).png)
+
+### Dashboard 2
+![Coffee Shop Dashboard](Screenshots/dashboard2.png)
+
 
 ---
 
