@@ -32,8 +32,8 @@ Using **Excel**, the dataset was cleaned, transformed, and visualized through **
 ---
 
 ## 📊 Key Insights
-- Morning rush (9 AM – 11 AM) generated the **highest sales volume**.  
-- **Monday and Friday** were the busiest days of the week.  
+- Morning rush (7 AM – 10 AM) generated the **highest sales volume**.  
+- **Monday and Thursday** were the busiest days of the week.  
 - **Beverages (coffee, tea)** contributed the majority of revenue.  
 - Packaged chocolates and baked items were strong **cross-selling opportunities**.  
 
